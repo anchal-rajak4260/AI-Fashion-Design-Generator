@@ -1,8 +1,11 @@
 # AI-Fashion-Design-Generator
 
 your-project-folder/
+
 ├── .streamlit/
+
 │   └── secrets.toml
+
 └── streamlit_app.py
 
 
